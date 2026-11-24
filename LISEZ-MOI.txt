@@ -1,0 +1,1 @@
+Ouvrir index.html dans un navigateur. Pour ajouter des œuvres, placer les images dans images/ et compléter le tableau works dans index.html. Catégories : acrylique (Peintures), matiere (Matières), couleur (Couleurs).
